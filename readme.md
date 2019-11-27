@@ -1,3 +1,13 @@
+# Adele's layouts
+
+## Keyboard level
+
+* [Dactyl-Manuform](/keyboards/handwired/dactyl_manuform/5x7/keymaps/virepri)
+
+## User level
+
+* [Virepri's user profile](/users/virepri)
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)

@@ -3,6 +3,7 @@
 ## Keyboard level
 
 * [Dactyl-Manuform](/keyboards/handwired/dactyl_manuform/5x7/keymaps/virepri)
+* [Disarray](/keyboards/sneakbox/disarray/staggered/keymaps/virepri)
 
 ## User level
 
